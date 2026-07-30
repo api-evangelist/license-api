@@ -1,4 +1,16 @@
 aid: license-api
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/license-api.png
 name: License-API
 description: "Unofficial REST API for choosealicense.com"
 url: https://github.com/cmccandless/license-api/blob/master/README.md
